@@ -184,10 +184,8 @@ Screenshots of all major pages are added in the `docs/screenshots` folder and al
 
 ## Project Screenshot
 
-<img width="1832" height="915" alt="ChatSpace Screenshot" src="https://github.com/user-attachments/assets/c42330dc-84d3-4bf5-8657-ea7497f4493d" />
-<img width="825" height="919" alt="Screenshot 2026-04-08 231527" src="https://github.com/user-attachments/assets/28f8bdae-99e0-4e02-b472-eabfab8d5234" />
-<img width="1372" height="864" alt="Screenshot 2026-04-08 232816" src="https://github.com/user-attachments/assets/b967f3c4-4187-4ec1-87ab-990770ff5463" />
-<img width="1854" height="926" alt="Screenshot 2026-04-08 231350" src="https://github.com/user-attachments/assets/613a2731-c757-49aa-8b90-9f3a35f4109e" />
-<img width="1842" height="892" alt="Screenshot 2026-04-08 233018" src="https://github.com/user-attachments/assets/36288218-d806-4634-ab30-8b1820a0ee84" />
+<img width="1832" height="915" alt="Screenshot 2026-04-08 231506" src="https://github.com/user-attachments/assets/8c3f345f-6aa7-4d90-9d4a-df0021d8cee1" />
+
+
 
 
