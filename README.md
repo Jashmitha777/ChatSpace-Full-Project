@@ -185,6 +185,13 @@ Screenshots of all major pages are added in the `docs/screenshots` folder and al
 ## Project Screenshot
 
 <img width="1832" height="915" alt="Screenshot 2026-04-08 231506" src="https://github.com/user-attachments/assets/8c3f345f-6aa7-4d90-9d4a-df0021d8cee1" />
+<img width="825" height="919" alt="Screenshot 2026-04-08 231527" src="https://github.com/user-attachments/assets/61ce111d-d050-4fef-9634-717c8a092834" />
+<img width="1854" height="926" alt="Screenshot 2026-04-08 231350" src="https://github.com/user-attachments/assets/6ad71e8f-063c-4bbf-8720-f1cc849c8ca3" />
+<img width="1372" height="864" alt="Screenshot 2026-04-08 232816" src="https://github.com/user-attachments/assets/d12c873f-3c81-494d-8e85-e1020e2c2d70" />
+<img width="1842" height="892" alt="Screenshot 2026-04-08 233018" src="https://github.com/user-attachments/assets/9bf49ff2-6f68-49a5-ac07-fad546371e50" />
+
+
+
 
 
 
